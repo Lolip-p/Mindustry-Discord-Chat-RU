@@ -4,7 +4,7 @@
 
 ## Установка:
 1. [Скачать](https://github.com/Lolip-p/Mindustry-Discord-Chat-RU/releases) и положить в папку mods
-2. [Создать](https://discord.com/developers/applications) discord бота и **обязательно назвать "[MD]"**
+2. [Создать](https://discord.com/developers/applications) discord бота и **обязательно назвать** `[MD]`
 3. Включить у бота 3 галочки: `PRESENCE INTENT`, `SERVER MEMBERS INTENT`, `MESSAGE CONTENT INTENT`
 4. Создать токен и пригласить на ваш дискорд сервер
 5. В файле конфига `config/mods/DiscordChat/config.json` в поле рядом с `bot_token` вставить токен бота, рядом с `channel_chat` вставить ID вашего дискорд чата где вы будете общаться
